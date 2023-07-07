@@ -1,3 +1,1 @@
 # Meta_course
-abc
-
